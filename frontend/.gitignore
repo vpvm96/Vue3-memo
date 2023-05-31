@@ -21,9 +21,3 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-
-.env
-
-node_modules/
-
-package-lock.json
