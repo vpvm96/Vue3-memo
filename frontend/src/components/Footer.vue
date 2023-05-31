@@ -1,9 +1,11 @@
 <template>
-  <footer>Footer</footer>
+  <footer>&copy;2022 Memo App. All rights reseved.</footer>
 </template>
 
-<script>
-export default {};
-</script>
-
-<style></style>
+<style scoped>
+footer {
+  background: #f7f7f7;
+  border-top: 1px solid #eee;
+  padding: 25px;
+}
+</style>
